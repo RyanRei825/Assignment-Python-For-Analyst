@@ -27,8 +27,6 @@ This notebook will analyse four questions:
 
 ## Result
 
-## Key Findings
-
 ### 1. What Drives Vehicle Price?
 
 Analysis showed that **horsepower is the strongest predictor of price** (r = 0.76), while driving range has only a weak relationship with price (r = 0.16). This suggests that manufacturers primarily position and price electric vehicles based on performance rather than range capability.
